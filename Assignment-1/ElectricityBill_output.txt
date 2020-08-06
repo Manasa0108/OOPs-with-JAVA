@@ -1,0 +1,35 @@
+2.ELECTICITY BILL:
+
+OUTPUT 1:
+run:
+Enter Consumer number: 1256
+Enter Consumer name: LIKHITHA
+Enter Consumer type(d-domestic/c-commercial): d
+Enter Previous Reading: 1000
+Enter Current Reading: 1500
+****************
+Customer Number: 1256
+Customer Name: LIKHITHA
+Customer type: Domestic
+Previous Reading: 1000
+Current Reading: 1500
+Units consumer: 500
+Tarrif: 1550.0
+BUILD SUCCESSFUL (total time: 22 seconds)
+
+OUTPUT 2:
+run:
+Enter Consumer number: 1246
+Enter Consumer name: PRIYA
+Enter Consumer type(d-domestic/c-commercial): c
+Enter Previous Reading: 1000
+Enter Current Reading: 1500
+****************
+Customer Number: 1246
+Customer Name: PRIYA
+Customer type: Commercial
+Previous Reading: 1000
+Current Reading: 1500
+Units consumer: 500
+Tarrif: 2450.0
+BUILD SUCCESSFUL (total time: 23 seconds)

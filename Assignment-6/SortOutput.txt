@@ -1,0 +1,44 @@
+Output: Sort
+	Menu
+1.Integer
+2.Double
+3.String
+4.Exit
+Enter your choice: 1
+Enter the size of the array: 4
+Enter Element : 10
+Enter Element : 4
+Enter Element : 7
+Enter Element : 2
+
+Sorted Array: 
+2	
+4	
+7	
+10	
+
+	Menu
+1.Integer
+2.Double
+3.String
+4.Exit
+Enter your choice: 3
+Enter the size of the array: 4 
+Enter String : hi
+Enter String : apple
+Enter String : good
+Enter String : bye
+
+Sorted Array: 
+apple	
+bye	
+good	
+hi	
+
+	Menu
+1.Integer
+2.Double
+3.String
+4.Exit
+Enter your choice: 4
+

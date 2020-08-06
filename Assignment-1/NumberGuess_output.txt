@@ -1,0 +1,17 @@
+NUMBER GUESS OUTPUT:
+run:
+Key in your guess: 
+50
+Try Lower!!
+25
+Try Lower!!
+13
+Try Higher!!
+19
+Try Lower!!
+16
+Try Lower!!
+15
+You got it in 6 trials
+The random number generated is: 15
+BUILD SUCCESSFUL (total time: 22 seconds)

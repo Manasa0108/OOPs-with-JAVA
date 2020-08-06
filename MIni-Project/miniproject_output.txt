@@ -1,0 +1,891 @@
+OUTPUT: MINI PROJECT : STUDENT MANAGEMENT SYSTEM
+********************************************************************
+		Menu
+		~~~~
+	1 - Register
+	2 - Student
+	3 - Teacher
+	4 - Exit
+
+	Enter your choice: 1
+********************************************************************
+		Resister
+		~~~~~~~~~
+	1 - Student
+	2 - Teacher
+	3 - Quit
+
+	Enter your choice: 1
+
+	Enter Name: PRIYA
+
+	Enter DOB: 02/05/1999
+
+	Enter ID. NO.: 123
+
+	Enter Email ID:  priya@gmail.com
+
+	Enter year: 2
+
+	Enter Degree: BE
+
+	Enter 5 courses: 
+DS
+DPSD
+USP
+JAVA
+POC
+
+	Registered Succussfully!!!
+
+********************************************************************
+		Menu
+		~~~~
+	1 - Register
+	2 - Student
+	3 - Teacher
+	4 - Exit
+
+	Enter your choice: 1
+********************************************************************
+		Resister
+		~~~~~~~~~
+	1 - Student
+	2 - Teacher
+	3 - Quit
+
+	Enter your choice: 1
+
+	Enter Name: DEEPIKA
+
+	Enter DOB: 01/01/1997
+
+	Enter ID. NO.: 156
+
+	Enter Email ID:  deeps@gmail.com
+
+	Enter year: 4
+
+	Enter Degree: BE
+
+	Enter 5 courses: 
+NETWORKS
+MATH
+AI
+UIUX
+C#
+
+	Registered Succussfully!!!
+
+********************************************************************
+		Menu
+		~~~~
+	1 - Register
+	2 - Student
+	3 - Teacher
+	4 - Exit
+
+	Enter your choice: 1
+********************************************************************
+		Resister
+		~~~~~~~~~
+	1 - Student
+	2 - Teacher
+	3 - Quit
+
+	Enter your choice: 1
+
+	Enter Name: ROSS
+
+	Enter DOB: 02/05/2000
+
+	Enter ID. NO.: 102
+
+	Enter Email ID:  rossg@gmail.com
+
+	Enter year: 2
+
+	Enter Degree: BE
+
+	Enter 5 courses: 
+DS  
+DPSD
+USP
+JAVA
+POC
+
+	Registered Succussfully!!!
+
+********************************************************************
+		Menu
+		~~~~
+	1 - Register
+	2 - Student
+	3 - Teacher
+	4 - Exit
+
+	Enter your choice: 1
+********************************************************************
+		Resister
+		~~~~~~~~~
+	1 - Student
+	2 - Teacher
+	3 - Quit
+
+	Enter your choice: 1
+
+	Enter Name: AIRA
+
+	Enter DOB: 03/10/2000 
+
+	Enter ID. NO.: 122
+
+	Enter Email ID:  aira@gmail.com
+
+	Enter year: 2
+
+	Enter Degree: BE
+
+	Enter 5 courses: 
+DS
+DPSD
+UNIX
+JAVA
+POC
+
+	Registered Succussfully!!!
+
+********************************************************************
+		Menu
+		~~~~
+	1 - Register
+	2 - Student
+	3 - Teacher
+	4 - Exit
+
+	Enter your choice: 1
+********************************************************************
+		Resister
+		~~~~~~~~~
+	1 - Student
+	2 - Teacher
+	3 - Quit
+
+	Enter your choice: 2
+
+	Enter Name: RAM
+
+	Enter DOB: 04/04/1976
+
+	Enter ID. NO.: T1
+
+	Enter Email ID:  ramt1@gmail.com
+
+	Enter qualification: ME,PhD
+
+	Enter Designation: PROF.
+
+	Enter courses handling(0-stop): DPSD
+NETWORKS
+0
+
+	Enter basic pay : 120000 
+
+	Registered Succussfully!!!
+
+********************************************************************
+		Menu
+		~~~~
+	1 - Register
+	2 - Student
+	3 - Teacher
+	4 - Exit
+
+	Enter your choice: 1
+********************************************************************
+		Resister
+		~~~~~~~~~
+	1 - Student
+	2 - Teacher
+	3 - Quit
+
+	Enter your choice: 2
+
+	Enter Name: MADHU
+
+	Enter DOB: 05/05/1980 
+
+	Enter ID. NO.: T2
+
+	Enter Email ID:  madhus@gmail.com
+
+	Enter qualification: BE,ME
+
+	Enter Designation: ASST.PROF.
+
+	Enter courses handling(0-stop): DS
+0
+
+	Enter basic pay : 90000 
+
+	Registered Succussfully!!!
+
+********************************************************************
+		Menu
+		~~~~
+	1 - Register
+	2 - Student
+	3 - Teacher
+	4 - Exit
+
+	Enter your choice: 3
+********************************************************************
+
+		Teacher
+		~~~~~~~~~
+
+	Enter your ID : 
+T3
+
+	Not a Registerd User!!!
+
+********************************************************************
+		Menu
+		~~~~
+	1 - Register
+	2 - Student
+	3 - Teacher
+	4 - Exit
+
+	Enter your choice: 3
+********************************************************************
+
+		Teacher
+		~~~~~~~~~
+
+	Enter your ID : 
+T1
+********************************************************************
+
+	1 - View Student Attendance
+	2 - View Student Marks
+	3 - Enter Attendance
+	4 - Enter Marks
+	5 - View Profile
+	6 - Update Profile
+	7 - View Payslip
+	8 - Quit
+	Enter your choice : 5
+
+		Profile
+
+	Name 		: RAM
+
+	Id  		: T1
+
+	DOB  		: 04/04/1976
+
+	Email id	: ramt1@gmail.com
+
+	Qualification	: ME,PhD
+
+	Designation	: PROF.
+********************************************************************
+
+	1 - View Student Attendance
+	2 - View Student Marks
+	3 - Enter Attendance
+	4 - Enter Marks
+	5 - View Profile
+	6 - Update Profile
+	7 - View Payslip
+	8 - Quit
+	Enter your choice : 6
+********************************************************************
+
+
+		MENU
+
+	1 - Change email
+	2 - Change qualification
+	3 - Change designation
+	4 - Quit
+	Enter your choice : 1
+
+	Enter new email: ramt1@yahoo.com
+********************************************************************
+
+
+		MENU
+
+	1 - Change email
+	2 - Change qualification
+	3 - Change designation
+	4 - Quit
+	Enter your choice : 4
+
+	Details updated Succussfully
+********************************************************************
+
+	1 - View Student Attendance
+	2 - View Student Marks
+	3 - Enter Attendance
+	4 - Enter Marks
+	5 - View Profile
+	6 - Update Profile
+	7 - View Payslip
+	8 - Quit
+	Enter your choice : 5
+
+		Profile
+
+	Name 		: RAM
+
+	Id  		: T1
+
+	DOB  		: 04/04/1976
+
+	Email id	: ramt1@yahoo.com
+
+	Qualification	: ME,PhD
+
+	Designation	: PROF.
+********************************************************************
+
+	1 - View Student Attendance
+	2 - View Student Marks
+	3 - Enter Attendance
+	4 - Enter Marks
+	5 - View Profile
+	6 - Update Profile
+	7 - View Payslip
+	8 - Quit
+	Enter your choice : 7
+******************************************************************
+		SALARY DETAILS
+	Basic Pay: 120000.0
+	Daily Allowance: 9600.0
+	House Rent Allowance: 96000.0
+	Gross Salary: 225600.0
+	Deductions(PF): 6000.0
+	Net Salary: 219600.0
+********************************************************************
+
+	1 - View Student Attendance
+	2 - View Student Marks
+	3 - Enter Attendance
+	4 - Enter Marks
+	5 - View Profile
+	6 - Update Profile
+	7 - View Payslip
+	8 - Quit
+	Enter your choice : 3
+********************************************************************
+
+		Enter Attendance details 
+		~~~~~~~~~~~~~~~~~~~~~~
+
+	Enter Course: UNIX
+	Add Attendance : Permission Denied!!!
+
+********************************************************************
+
+	1 - View Student Attendance
+	2 - View Student Marks
+	3 - Enter Attendance
+	4 - Enter Marks
+	5 - View Profile
+	6 - Update Profile
+	7 - View Payslip
+	8 - Quit
+	Enter your choice : 3
+********************************************************************
+
+		Enter Attendance details 
+		~~~~~~~~~~~~~~~~~~~~~~
+
+	Enter Course: DPSD
+
+	Enter year: 4
+
+	No Students found for given course and year
+********************************************************************
+
+	1 - View Student Attendance
+	2 - View Student Marks
+	3 - Enter Attendance
+	4 - Enter Marks
+	5 - View Profile
+	6 - Update Profile
+	7 - View Payslip
+	8 - Quit
+	Enter your choice : 3
+********************************************************************
+
+		Enter Attendance details 
+		~~~~~~~~~~~~~~~~~~~~~~
+
+	Enter Course: DPSD
+
+	Enter year: 2
+
+		Id		Name
+
+		102	ROSS
+
+		Id		Name
+
+		122	AIRA
+
+		Id		Name
+
+		123	PRIYA
+
+	Enter Absentees ID (0-stop): 123
+0
+
+	Attendance Updated Succussfully!!!
+
+********************************************************************
+
+	1 - View Student Attendance
+	2 - View Student Marks
+	3 - Enter Attendance
+	4 - Enter Marks
+	5 - View Profile
+	6 - Update Profile
+	7 - View Payslip
+	8 - Quit
+	Enter your choice : 1
+********************************************************************
+
+		1 - All
+		2 - Select Year
+		3 - Select Student Id
+		4 - Quit
+
+		Enter your choice : 2
+
+	Enter year: 2
+********************************************************************
+
+
+	ATTENDANCE DETAILS
+
+
+	Name: ROSS	ID: 102	Year: 2
+	COURSE	ATTENDANCE
+
+	DS	0.0 %
+	DPSD	100.0 %
+	USP	0.0 %
+	JAVA	0.0 %
+	POC	0.0 %
+********************************************************************
+
+
+	ATTENDANCE DETAILS
+
+
+	Name: AIRA	ID: 122	Year: 2
+	COURSE	ATTENDANCE
+
+	DS	0.0 %
+	DPSD	100.0 %
+	UNIX	0.0 %
+	JAVA	0.0 %
+	POC	0.0 %
+********************************************************************
+
+
+	ATTENDANCE DETAILS
+
+
+	Name: PRIYA	ID: 123	Year: 2
+	COURSE	ATTENDANCE
+
+	DS	0.0 %
+	DPSD	0.0 %
+	USP	0.0 %
+	JAVA	0.0 %
+	POC	0.0 %
+********************************************************************
+
+		1 - All
+		2 - Select Year
+		3 - Select Student Id
+		4 - Quit
+
+		Enter your choice : 4
+********************************************************************
+
+	1 - View Student Attendance
+	2 - View Student Marks
+	3 - Enter Attendance
+	4 - Enter Marks
+	5 - View Profile
+	6 - Update Profile
+	7 - View Payslip
+	8 - Quit
+	Enter your choice : 4
+********************************************************************
+
+		Enter Mark details 
+		~~~~~~~~~~~~~~~~~~~
+
+	Enter Course: DPSD
+
+	Enter year: 2
+
+	COURSE: DPSD
+
+	Enter Marks for: 
+
+		102	ROSS
+89
+
+		122	AIRA
+67
+
+		123	PRIYA
+90
+
+	Marks updated Successfully!!!
+
+********************************************************************
+
+	1 - View Student Attendance
+	2 - View Student Marks
+	3 - Enter Attendance
+	4 - Enter Marks
+	5 - View Profile
+	6 - Update Profile
+	7 - View Payslip
+	8 - Quit
+	Enter your choice : 2
+********************************************************************
+
+		1 - All
+		2 - Select Year
+		3 - Select Student Id
+		4 - Quit
+
+		Enter your choice : 2
+
+	Enter year: 2
+********************************************************************
+
+
+	MARK DETAILS	
+
+
+	Name: ROSS	ID: 102	Year: 2
+	COURSE	MARKS
+
+	DS	0.0
+	DPSD	89.0
+	USP	0.0
+	JAVA	0.0
+	POC	0.0
+********************************************************************
+
+
+	MARK DETAILS	
+
+
+	Name: AIRA	ID: 122	Year: 2
+	COURSE	MARKS
+
+	DS	0.0
+	DPSD	67.0
+	UNIX	0.0
+	JAVA	0.0
+	POC	0.0
+********************************************************************
+
+
+	MARK DETAILS	
+
+
+	Name: PRIYA	ID: 123	Year: 2
+	COURSE	MARKS
+
+	DS	0.0
+	DPSD	90.0
+	USP	0.0
+	JAVA	0.0
+	POC	0.0
+********************************************************************
+
+		1 - All
+		2 - Select Year
+		3 - Select Student Id
+		4 - Quit
+
+		Enter your choice : 4
+********************************************************************
+
+	1 - View Student Attendance
+	2 - View Student Marks
+	3 - Enter Attendance
+	4 - Enter Marks
+	5 - View Profile
+	6 - Update Profile
+	7 - View Payslip
+	8 - Quit
+	Enter your choice : 1
+********************************************************************
+
+		1 - All
+		2 - Select Year
+		3 - Select Student Id
+		4 - Quit
+
+		Enter your choice : 1
+********************************************************************
+
+
+	ATTENDANCE DETAILS
+
+
+	Name: ROSS	ID: 102	Year: 2
+	COURSE	ATTENDANCE
+
+	DS	0.0 %
+	DPSD	100.0 %
+	USP	0.0 %
+	JAVA	0.0 %
+	POC	0.0 %
+********************************************************************
+
+
+	ATTENDANCE DETAILS
+
+
+	Name: AIRA	ID: 122	Year: 2
+	COURSE	ATTENDANCE
+
+	DS	0.0 %
+	DPSD	100.0 %
+	UNIX	0.0 %
+	JAVA	0.0 %
+	POC	0.0 %
+********************************************************************
+
+
+	ATTENDANCE DETAILS
+
+
+	Name: PRIYA	ID: 123	Year: 2
+	COURSE	ATTENDANCE
+
+	DS	0.0 %
+	DPSD	0.0 %
+	USP	0.0 %
+	JAVA	0.0 %
+	POC	0.0 %
+********************************************************************
+
+
+	ATTENDANCE DETAILS
+
+
+	Name: DEEPIKA	ID: 156	Year: 4
+	COURSE	ATTENDANCE
+
+	NETWORKS	0.0 %
+	MATH	0.0 %
+	AI	0.0 %
+	UIUX	0.0 %
+	C#	0.0 %
+********************************************************************
+
+		1 - All
+		2 - Select Year
+		3 - Select Student Id
+		4 - Quit
+
+		Enter your choice : 4
+********************************************************************
+
+	1 - View Student Attendance
+	2 - View Student Marks
+	3 - Enter Attendance
+	4 - Enter Marks
+	5 - View Profile
+	6 - Update Profile
+	7 - View Payslip
+	8 - Quit
+	Enter your choice : 8
+********************************************************************
+		Menu
+		~~~~
+	1 - Register
+	2 - Student
+	3 - Teacher
+	4 - Exit
+
+	Enter your choice: 2
+********************************************************************
+
+		Student
+		~~~~~~~~~
+
+	Enter your ID : 
+190
+
+	Not a Registerd User!!!
+
+********************************************************************
+		Menu
+		~~~~
+	1 - Register
+	2 - Student
+	3 - Teacher
+	4 - Exit
+
+	Enter your choice: 2
+********************************************************************
+
+		Student
+		~~~~~~~~~
+
+	Enter your ID : 
+122
+********************************************************************
+
+	1 - View Attendance
+	2 - View Marks
+	3 - View Profile
+	4 - Update Profile
+	5 - Quit
+	Enter your choice : 1
+********************************************************************
+
+
+	ATTENDANCE DETAILS
+
+
+	Name: AIRA	ID: 122	Year: 2
+	COURSE	ATTENDANCE
+
+	DS	0.0 %
+	DPSD	100.0 %
+	UNIX	0.0 %
+	JAVA	0.0 %
+	POC	0.0 %
+********************************************************************
+
+	1 - View Attendance
+	2 - View Marks
+	3 - View Profile
+	4 - Update Profile
+	5 - Quit
+	Enter your choice : 2
+********************************************************************
+
+
+	MARK DETAILS	
+
+
+	Name: AIRA	ID: 122	Year: 2
+	COURSE	MARKS
+
+	DS	0.0
+	DPSD	67.0
+	UNIX	0.0
+	JAVA	0.0
+	POC	0.0
+********************************************************************
+
+	1 - View Attendance
+	2 - View Marks
+	3 - View Profile
+	4 - Update Profile
+	5 - Quit
+	Enter your choice : 3
+********************************************************************
+
+		Profile
+
+	Name 		: AIRA
+
+	Id  		: 122
+
+	DOB  		: 03/10/2000
+
+	Email id	: aira@gmail.com
+
+	Year		: 2
+
+	Degree		: BE
+********************************************************************
+
+	1 - View Attendance
+	2 - View Marks
+	3 - View Profile
+	4 - Update Profile
+	5 - Quit
+	Enter your choice : 4
+********************************************************************
+
+	MENU
+
+	1 - Change email
+	2 - Change year
+	3 - Change degree
+	4 - Quit
+	Enter your choice : 1
+
+	Enter new email: aira122@gmail.com
+********************************************************************
+
+	MENU
+
+	1 - Change email
+	2 - Change year
+	3 - Change degree
+	4 - Quit
+	Enter your choice : 4
+
+	Details updated Succussfully
+********************************************************************
+
+	1 - View Attendance
+	2 - View Marks
+	3 - View Profile
+	4 - Update Profile
+	5 - Quit
+	Enter your choice : 3
+********************************************************************
+
+		Profile
+
+	Name 		: AIRA
+
+	Id  		: 122
+
+	DOB  		: 03/10/2000
+
+	Email id	: aira122@gmail.com
+
+	Year		: 2
+
+	Degree		: BE
+********************************************************************
+
+	1 - View Attendance
+	2 - View Marks
+	3 - View Profile
+	4 - Update Profile
+	5 - Quit
+	Enter your choice : 5
+********************************************************************
+		Menu
+		~~~~
+	1 - Register
+	2 - Student
+	3 - Teacher
+	4 - Exit
+
+	Enter your choice: 4

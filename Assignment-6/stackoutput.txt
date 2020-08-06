@@ -1,0 +1,239 @@
+Output: Stack
+
+
+Oject type: 
+1-String
+2-Integer
+3-Float
+4-Double
+Enter your choice: 
+1
+
+Capacity : 
+4
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+1
+Element: 
+hi
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+1
+Element: 
+good
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+1
+Element: 
+apple
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+3
+
+
+*****STACK CONTENTS*****
+apple 
+good 
+hi 
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+1
+Element: 
+bat
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+3
+
+
+*****STACK CONTENTS*****
+bat 
+apple 
+good 
+hi 
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+2
+The element popped is: bat
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+2
+The element popped is: apple
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+2
+The element popped is: good
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+2
+The element popped is: hi
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+2
+
+Stack is Empty!
+The element popped is: null
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+4
+
+Do you want to continue? (1/0): 
+1
+Oject type: 
+1-String
+2-Integer
+3-Float
+4-Double
+Enter your choice: 
+2
+
+Capacity of the stack: 
+4
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+1
+Element: 
+10
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+1
+Element: 
+5
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+1
+Element: 
+12
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+1
+Element: 
+90
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+3
+
+
+*****STACK CONTENTS*****
+90 
+12 
+5 
+10 
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+2
+The element popped is: 90
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+2
+The element popped is: 12
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+2
+The element popped is: 5
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+2
+The element popped is: 10
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+2
+
+Stack is Empty!
+The element popped is: null
+****************************
+1-push
+2-pop
+3-Display
+4-quit
+Option: 
+4
+
+Do you want to continue? (1/0): 
+0
+

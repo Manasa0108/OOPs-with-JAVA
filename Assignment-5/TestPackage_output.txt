@@ -1,0 +1,106 @@
+Assignment 5: Packages Output
+
+Choose input currency format
+ 1-INR
+ 2-USD
+ 3-Euro
+ 4-Yen
+ 0-Exit
+ Your choice: 1
+ Enter value 10
+
+INR: 10.0
+USD: 0.14
+Euro: 0.13
+Yen: 14.9
+
+Choose input currency format
+ 1-INR
+ 2-USD
+ 3-Euro
+ 4-Yen
+ 0-Exit
+ Your choice: 1
+ Enter value a
+Invalid Input Format 
+
+Choose input currency format
+ 1-INR
+ 2-USD
+ 3-Euro
+ 4-Yen
+ 0-Exit
+ Your choice: 2
+ Enter value 19
+
+INR: 1352.42
+USD: 19.0
+Euro: 17.1
+Yen: 2017.04
+
+Choose input currency format
+ 1-INR
+ 2-USD
+ 3-Euro
+ 4-Yen
+ 0-Exit
+ Your choice: 2
+ Enter value b
+Invalid Input Format 
+
+Choose input currency format
+ 1-INR
+ 2-USD
+ 3-Euro
+ 4-Yen
+ 0-Exit
+ Your choice: 3
+ Enter value 80
+
+INR: 6313.6
+USD: 88.80000000000001
+Euro: 80.0
+Yen: 9415.2
+
+Choose input currency format
+ 1-INR
+ 2-USD
+ 3-Euro
+ 4-Yen
+ 0-Exit
+ Your choice: 3
+ Enter value c
+Invalid Input Format 
+
+Choose input currency format
+ 1-INR
+ 2-USD
+ 3-Euro
+ 4-Yen
+ 0-Exit
+ Your choice: 4
+ Enter value 89
+
+INR: 59.63
+USD: 0.8366
+Euro: 0.7565000000000001
+Yen: 89.0
+
+Choose input currency format
+ 1-INR
+ 2-USD
+ 3-Euro
+ 4-Yen
+ 0-Exit
+ Your choice: 4
+ Enter value d
+Invalid Input Format 
+
+Choose input currency format
+ 1-INR
+ 2-USD
+ 3-Euro
+ 4-Yen
+ 0-Exit
+ Your choice: 0
+

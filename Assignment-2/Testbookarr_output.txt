@@ -1,0 +1,58 @@
+2. Testbook with array of authors:
+
+OUTPUT:
+run:
+Enter  no. of Authors: 
+2
+Enter Author name: 
+M.B.Geetha
+Enter Author email id: 
+geet@gmail.com
+Enter Author's gender: 
+F
+Enter Author name: 
+Rajan.S
+Enter Author email id: 
+rajans@gmail.com
+Enter Author's gender: 
+M
+Enter book name: 
+The story teller
+Enter book price: 
+250
+Enter book qty: 
+20
+#####################################################
+Enter  no. of Authors: 
+1
+Enter Author name: 
+Alfred Mathew
+Enter Author email id: 
+almath@gmail.com
+Enter Author's gender: 
+M
+Enter book name: 
+The Gargoyal King
+Enter book price: 
+390
+Enter book qty: 
+10
+#####################################################
+Book name	: The story teller
+Author name	: M.B.Geetha
+Author email	: geet@gmail.com
+Gender	: F
+Author name	: Rajan.S
+Author email	: rajans@gmail.com
+Gender	: M
+Book price	: 250.0
+Book Qty	: 20
+#####################################################
+Book name	: The Gargoyal King
+Author name	: Alfred Mathew
+Author email	: almath@gmail.com
+Gender	: M
+Book price	: 390.0
+Book Qty	: 10
+#####################################################
+

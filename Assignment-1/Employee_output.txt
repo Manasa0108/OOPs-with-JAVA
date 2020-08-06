@@ -1,0 +1,169 @@
+Employee:
+Output:
+
+run:
+Enter number of employees:3
+~~~~~~~~~~~~~~~~~~~~~~~
+	MENU
+~~~~~~~~~~~~~~~~~~~~~~~
+1.Enter employee Details
+2.Payroll of n employees
+3.Payslip of particular employee
+4.Promotion
+5.Exit 
+Enter choice:
+1
+
+Input details of employee 1
+Enter name:Latha
+Enter designation:manager
+Date of Birth(DD/MM/YYYY): 
+05/02/1978
+Date of Join(DD/MM/YYYY): 
+05/10/2010
+Enter id:1245
+Enter basic pay:80000
+Enter 1 if you want lic or 0 if not:0
+
+Input details of employee 2
+Enter name:Madhu
+Enter designation:intern
+Date of Birth(DD/MM/YYYY): 
+23/08/1989
+Date of Join(DD/MM/YYYY): 
+20/07/2011
+Enter id:2345
+Enter no of hours:120
+Enter hourly wage:100
+Enter 1 if you want lic or 0 if not:1
+
+Input details of employee 3
+Enter name:Sam
+Enter designation:others
+Date of Birth(DD/MM/YYYY): 
+15/11/1985
+Date of Join(DD/MM/YYYY): 
+13/10/2015
+Enter id:5689
+Enter basic pay:40000
+Enter 1 if you want lic or 0 if not:1
+~~~~~~~~~~~~~~~~~~~~~~~
+	MENU
+~~~~~~~~~~~~~~~~~~~~~~~
+1.Enter employee Details
+2.Payroll of n employees
+3.Payslip of particular employee
+4.Promotion
+5.Exit 
+Enter choice:
+2
+ID	Name	Designation	DOB	DOJ	NetSalary
+1245	Latha	manager	05/02/1978	05/10/2010	113600.0
+2345	Madhu	intern	23/08/1989	20/07/2011	13500.0
+5689	Sam	others	15/11/1985	13/10/2015	51800.0
+~~~~~~~~~~~~~~~~~~~~~~~
+	MENU
+~~~~~~~~~~~~~~~~~~~~~~~
+1.Enter employee Details
+2.Payroll of n employees
+3.Payslip of particular employee
+4.Promotion
+5.Exit 
+Enter choice:
+3
+Enter Employee ID:1245
+
+Name 		:Latha
+Designation 	:manager
+Date of birth 	:05/02/1978
+date oof join 	:05/10/2010
+Employee id 	:1245
+Experience	: 9yrs
+Basic pay 	: 80000
+DA 		: 32000
+HRA 		: 8000
+LIC 		: 0
+PF 		: 6400
+Gross salary 	: 120000.0
+Deductions 	: 6400.0
+Net salary 	: 113600.0
+~~~~~~~~~~~~~~~~~~~~~~~
+	MENU
+~~~~~~~~~~~~~~~~~~~~~~~
+1.Enter employee Details
+2.Payroll of n employees
+3.Payslip of particular employee
+4.Promotion
+5.Exit 
+Enter choice:
+4
+Enter Employee ID:1245
+Do you want to apply for promotion?(y/n): 
+y
+You are a Manager and cannot be promoted further!!!
+~~~~~~~~~~~~~~~~~~~~~~~
+	MENU
+~~~~~~~~~~~~~~~~~~~~~~~
+1.Enter employee Details
+2.Payroll of n employees
+3.Payslip of particular employee
+4.Promotion
+5.Exit 
+Enter choice:
+4
+Enter Employee ID:5689
+Do you want to apply for promotion?(y/n): 
+y
+More experience required...Better luck next time!!
+~~~~~~~~~~~~~~~~~~~~~~~
+	MENU
+~~~~~~~~~~~~~~~~~~~~~~~
+1.Enter employee Details
+2.Payroll of n employees
+3.Payslip of particular employee
+4.Promotion
+5.Exit 
+Enter choice:
+4
+Enter Employee ID:2345
+Do you want to apply for promotion?(y/n): 
+y
+Enter Basic pay: 50000
+Promoted successfully
+~~~~~~~~~~~~~~~~~~~~~~~
+	MENU
+~~~~~~~~~~~~~~~~~~~~~~~
+1.Enter employee Details
+2.Payroll of n employees
+3.Payslip of particular employee
+4.Promotion
+5.Exit 
+Enter choice:
+3
+Enter Employee ID:2345
+
+Name 		:Madhu
+Designation 	:others
+Date of birth 	:23/08/1989
+date oof join 	:20/07/2011
+Employee id 	:2345
+Experience	: 8yrs
+Basic pay 	: 50000
+DA 		: 15000
+HRA 		: 5000
+LIC 		: 1000
+PF 		: 4000
+Gross salary 	: 70000.0
+Deductions 	: 5000.0
+Net salary 	: 65000.0
+~~~~~~~~~~~~~~~~~~~~~~~
+	MENU
+~~~~~~~~~~~~~~~~~~~~~~~
+1.Enter employee Details
+2.Payroll of n employees
+3.Payslip of particular employee
+4.Promotion
+5.Exit 
+Enter choice:
+5
+BUILD SUCCESSFUL (total time: 4 minutes 3 seconds)

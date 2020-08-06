@@ -1,0 +1,115 @@
+TestShape using Interface
+Output:
+
+run:
+
+Enter shape 
+1)Circle 
+2)Rectangle 
+3)Square
+enter choice: 
+1
+****Default Constructor of Circle****
+Radius: 1.0
+Color: red
+Area: 3.14
+Perimeter: 6.28
+
+****One parameterised Constructor of Circle****
+
+Enter new radius:
+2
+Radius: 2.0
+Color: red
+Area: 12.56
+Perimeter: 12.56
+
+****Two parameterised Constructor of Circle****
+Enter radius and colour:
+4
+Green
+Radius: 4.0
+Color: Green
+Area: 50.24
+Perimeter: 25.12
+
+
+Enter shape 
+1)Circle 
+2)Rectangle 
+3)Square
+enter choice: 
+2
+
+****Default Constructor of Rectangle****
+
+Length: 1.0
+Width: 1.0
+Color: red
+Area: 1.0
+Perimeter: 4.0
+
+****Two parameterised Constructor of Rectangle****
+Enter length and width
+12
+4
+
+Length: 4.0
+Width: 12.0
+Color: red
+Area: 48.0
+Perimeter: 32.0
+
+****Three parameterised Constructor of Rectangle****
+Enter length and width, color
+13
+5
+Pink
+
+Length: 5.0
+Width: 13.0
+Color: Pink
+Area: 65.0
+Perimeter: 36.0
+
+
+Enter shape 
+1)Circle 
+2)Rectangle 
+3)Square
+enter choice: 
+3
+
+****Default Constructor of Square****
+
+Side: 1.0
+Color: red
+Area: 1.0
+Perimeter: 4.0
+
+****One parameterised Constructor of Square****
+Enter side of square
+3
+
+Side: 3.0
+Color: red
+Area: 9.0
+Perimeter: 12.0
+
+****Two parameterised Constructor of Square****
+Enter side and color
+7
+yellow
+
+Side: 7.0
+Color: yellow
+Area: 49.0
+Perimeter: 28.0
+
+
+Enter shape 
+1)Circle 
+2)Rectangle 
+3)Square
+enter choice: 
+0
